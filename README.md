@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">Working as a Software Engineer at Tata Consultancy Services.</h3>
+<h3 align="center">A Software Engineer working at Tata Consultancy Services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaverma31&label=Profile%20views&color=0e75b6&style=flat" alt="riyaverma31" /> </p>
 
